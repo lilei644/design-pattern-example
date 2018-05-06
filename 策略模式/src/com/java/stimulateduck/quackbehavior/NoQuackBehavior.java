@@ -1,4 +1,4 @@
-package com.java.hexter.stimulateduck.quackbehavior;
+package com.java.stimulateduck.quackbehavior;
 
 
 public	class NoQuackBehavior implements QuackBehavior

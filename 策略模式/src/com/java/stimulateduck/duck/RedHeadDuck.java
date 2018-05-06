@@ -1,8 +1,8 @@
-package com.java.hexter.stimulateduck.duck;
+package com.java.stimulateduck.duck;
 
-import com.java.hexter.stimulateduck.flybehavior.BadFlyBehavior;
+import com.java.stimulateduck.flybehavior.BadFlyBehavior;
 
-import com.java.hexter.stimulateduck.quackbehavior.GeGeQuackBehavior;
+import com.java.stimulateduck.quackbehavior.GeGeQuackBehavior;
 
 public class RedHeadDuck extends Duck {
 

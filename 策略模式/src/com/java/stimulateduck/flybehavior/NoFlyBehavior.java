@@ -1,4 +1,4 @@
-package com.java.hexter.stimulateduck.flybehavior;
+package com.java.stimulateduck.flybehavior;
 
 
 public class	NoFlyBehavior implements FlyBehavior

@@ -1,10 +1,10 @@
-package com.java.hexter.stimulateduck;
+package com.java.stimulateduck;
 
-import com.java.hexter.stimulateduck.duck.Duck;
-import com.java.hexter.stimulateduck.duck.GreenHeadDuck;
-import com.java.hexter.stimulateduck.duck.RedHeadDuck;
-import com.java.hexter.stimulateduck.flybehavior.NoFlyBehavior;
-import com.java.hexter.stimulateduck.quackbehavior.NoQuackBehavior;
+import com.java.stimulateduck.duck.Duck;
+import com.java.stimulateduck.duck.GreenHeadDuck;
+import com.java.stimulateduck.duck.RedHeadDuck;
+import com.java.stimulateduck.flybehavior.NoFlyBehavior;
+import com.java.stimulateduck.quackbehavior.NoQuackBehavior;
 
 
 /**

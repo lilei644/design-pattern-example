@@ -1,4 +1,4 @@
-package com.java.hexter.stimulateduck.oo;
+package com.java.stimulateduck.oo;
 
 public abstract class Duck {
 
