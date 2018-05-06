@@ -1,4 +1,4 @@
-package com.java.hexter.internetweather.mode;
+package com.java.internetweather.mode;
 
 
 /**

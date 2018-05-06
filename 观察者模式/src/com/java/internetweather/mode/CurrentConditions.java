@@ -1,6 +1,6 @@
-package com.java.hexter.internetweather.mode;
+package com.java.internetweather.mode;
 
-import com.java.hexter.internetweather.observer.Observer;
+import com.java.internetweather.observer.Observer;
 
 /**
  * 自定义的观察者

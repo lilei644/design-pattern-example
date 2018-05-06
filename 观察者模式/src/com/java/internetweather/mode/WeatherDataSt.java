@@ -1,14 +1,14 @@
-package com.java.hexter.internetweather.mode;
+package com.java.internetweather.mode;
 
 import java.util.ArrayList;
 
-import com.java.hexter.internetweather.observer.Observer;
-import com.java.hexter.internetweather.observer.Subject;
+import com.java.internetweather.observer.Observer;
+import com.java.internetweather.observer.Subject;
 
 /**
  * 自定义的观察者模式，被观察者
  */
-public class WeatherDataSt implements Subject{
+public class WeatherDataSt implements Subject {
 	
 	private float mTemperatrue;
 	private float mPressure;

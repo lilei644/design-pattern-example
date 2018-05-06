@@ -1,4 +1,4 @@
-package com.java.hexter.internetweather.observer;
+package com.java.internetweather.observer;
 
 /**
  * 自定义被观察者

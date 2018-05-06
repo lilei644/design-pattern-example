@@ -1,9 +1,9 @@
-package com.java.hexter.internetweather.jv;
+package com.java.internetweather.jv;
 
 import java.util.Observable;
 import java.util.Observer;
 
-import com.java.hexter.internetweather.jv.WeatherData.Data;
+import com.java.internetweather.jv.WeatherData.Data;
 
 
 /**
