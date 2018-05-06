@@ -22,7 +22,9 @@ public class Test {
 
 	public static void main(String[] args) {
 
-		Test test = new Test();
+		// 传统模式，一个对象new一次实例
+		Test test1 = new Test();
+		Test test2 = new Test();
 
 		// 单例模式
 		ChocolateFactory.getInstance().drain();
