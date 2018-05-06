@@ -1,4 +1,4 @@
-package com.java.jikexueyuan.myiodecorator;
+package com.java.myiodecorator;
 
 import java.io.FilterInputStream;
 import java.io.IOException;

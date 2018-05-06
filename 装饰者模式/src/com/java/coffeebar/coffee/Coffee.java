@@ -1,6 +1,6 @@
-package com.java.jikexueyuan.coffeebar.coffee;
+package com.java.coffeebar.coffee;
 
-import com.java.jikexueyuan.coffeebar.Drink;
+import com.java.coffeebar.Drink;
 
 
 /**

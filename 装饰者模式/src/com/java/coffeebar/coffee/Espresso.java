@@ -1,4 +1,4 @@
-package com.java.jikexueyuan.coffeebar.coffee;
+package com.java.coffeebar.coffee;
 
 public class Espresso extends Coffee{
 	

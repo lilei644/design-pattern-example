@@ -1,6 +1,6 @@
-package com.java.jikexueyuan.coffeebar.decorator;
+package com.java.coffeebar.decorator;
 
-import com.java.jikexueyuan.coffeebar.Drink;
+import com.java.coffeebar.Drink;
 
 public class Chocolate extends Decorator {
 

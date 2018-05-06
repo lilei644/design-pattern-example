@@ -1,9 +1,9 @@
-package com.java.jikexueyuan.coffeebar;
+package com.java.coffeebar;
 
-import com.java.jikexueyuan.coffeebar.coffee.Decaf;
-import com.java.jikexueyuan.coffeebar.coffee.LongBlack;
-import com.java.jikexueyuan.coffeebar.decorator.Chocolate;
-import com.java.jikexueyuan.coffeebar.decorator.Milk;
+import com.java.coffeebar.coffee.Decaf;
+import com.java.coffeebar.coffee.LongBlack;
+import com.java.coffeebar.decorator.Chocolate;
+import com.java.coffeebar.decorator.Milk;
 
 /**
  * 装饰者示例，利用装饰者模式可将新功能更方便的添加到已有模块上，且不涉及已有模块的代码修改

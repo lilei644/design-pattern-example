@@ -1,4 +1,4 @@
-package com.java.jikexueyuan.coffeebar;
+package com.java.coffeebar;
 
 /**
  * 饮料的超类，封装基本方法和定义抽象方法
