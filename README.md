@@ -1,7 +1,7 @@
 # design-pattern-example
 Java设计模式示例
 
-### 说明
+### 设计模式说明
 * [策略模式](https://lilei644.github.io/2018/05/02/2018-05-02/)
 * [观察者模式](https://lilei644.github.io/2018/05/04/2018-05-04/)
 * [装饰者模式](https://lilei644.github.io/2018/05/05/2018-05-05/)
@@ -22,3 +22,4 @@ Java设计模式示例
 * [蝇量模式](https://lilei644.github.io/2018/06/04/2018-06-04/)
 * [解释器模式](https://lilei644.github.io/2018/06/05/2018-06-05/)
 * [中介者模式](https://lilei644.github.io/2018/06/12/2018-06-12/)
+* [备忘录模式](https://lilei644.github.io/2018/06/13/2018-06-13/)
